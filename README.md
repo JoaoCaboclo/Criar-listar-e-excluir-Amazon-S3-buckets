@@ -35,7 +35,6 @@ Below is the structure of the generated project.
 ```
 mvn clean package
 ```
-
 # Comece com o AWS SDK for Java 2.x
 
 ## Documentos de referências com tudo necessário aos estudos
@@ -46,3 +45,4 @@ mvn clean package
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
+
